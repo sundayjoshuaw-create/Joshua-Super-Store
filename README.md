@@ -178,4 +178,4 @@ You can paste this directly into Shopify or any HTML environment.
 <!-- ===== Floating Watch Video Button ===== -->
 <a href="https://www.youtube.com/watch?v=JoshuaSuperStoreDemo" target="_blank" 
    style="position:fixed; bottom:15
-```
+```https://www.tiktok.com/@theonlyemiliaa/video/7343561047246228742?lang=en
